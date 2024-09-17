@@ -1,6 +1,6 @@
-# Mahmoud ElMoataz Bellah Mohamed Kandil
+# Mahmoud ElMoataz Bellah Kandil
 
-#### IT Manager | Expert in IT Infrastructure, Cybersecurity, Virtualization, and Cloud Technologies
+#### ICT Manager | MBA | Microsoft | MCSA | MCSE | SharePoint | Exchange | Cloud | Productivity | VMware | VCA-DCV | VCA-CLOUD | VCE-CIA | Oracle | OCI | FortiGate |NSE1 | NSE2 | Nutanix | NCA | HPE | Aruba | Cisco | Veeam |
 
 **Nationality:** Egyptian  
 **Date of Birth:** January 10, 1990  
@@ -11,7 +11,9 @@
 ---
 
 ## 🎯 Objective
-To excel as an IT Manager in the hotel industry by leveraging my extensive knowledge in IT systems, strong leadership skills, and passion for implementing seamless and innovative technology solutions. Focused on maximizing guest satisfaction and optimizing hotel operations through strategic IT management.
+With a Bachelor's Degree in Electrical, Electronics and Communications Engineering and multiple certifications, such as MCSA, MCSE, VMWare, and NSE, I am an ICT Manager at KaiSol Hotels & Resorts, a luxury hotel chain across the Middle East and Africa. I have over 10 years of experience in the hospitality IT industry, with a passion for complex system integration, project management, and network security.
+
+At KaiSol, I oversee the IT infrastructure design, deployment, and operation for the hotel chain, implementing advanced technology solutions that enhance the guest experience and the business performance. Some of the solutions I have delivered include data centers, converged network infrastructure, campus Wi-Fi, IPTV, IP CCTV, and hotel applications. I have also successfully led the grand openings of several new hotels, ensuring the continuity and reliability of the existing IT systems, managing the disaster recovery, firewall, VPN, and billing systems. My goal is to transform KaiSol Hotels & Resorts into a tech-forward leader in the hospitality sector, with the help of my team and partners.
 
 ---
 
