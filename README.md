@@ -89,7 +89,7 @@ At KaiSol, I oversee the IT infrastructure design, deployment, and operation for
 
 ## 📜 Certifications
 
-- **[Microsoft Certified Solutions Expert (MCSE) 2012](https://learn.microsoft.com/en-us/users/mahmoudelmoataz/transcript)**
+- **[Microsoft Certified Solutions Expert (MCSE) 2012](https://learn.microsoft.com/en-us/users/mahmoudelmoataz/transcript/7o43c863n5g5o1d)**
   - Server Infrastructure, Messaging, SharePoint, Private Cloud, Cloud Platform
   - Certified since 2014
 
